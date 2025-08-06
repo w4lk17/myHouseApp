@@ -1,6 +1,7 @@
 import 'package:my_house/bindings/general_bindings.dart';
 import 'package:my_house/features/authentication/screens/onboarding/onboarding.dart';
 import 'package:flutter/material.dart';
+import 'package:my_house/utils/constants/colors.dart';
 import 'package:my_house/utils/theme/theme.dart';
 import 'package:get/get.dart';
 
@@ -18,7 +19,7 @@ class App extends StatelessWidget {
       initialBinding: GeneralBindings(),
       // getPages: AppRoutes.pages,
       home: const OnBoardingScreen(),
-      // Scaffold(
+      // home:Scaffold(
       //   backgroundColor: TColors.primary,
       //   body: Center(child: CircularProgressIndicator(color: TColors.white)),
       // ),

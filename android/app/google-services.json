@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364902318108",
+    "project_id": "houseimoapp",
+    "storage_bucket": "houseimoapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364902318108:android:abdddd36a273714f581fd9",
+        "android_client_info": {
+          "package_name": "com.kartogroup.my_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzHgW5fDFwpJqwJgcsvvTk1HEvxXzQwzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
